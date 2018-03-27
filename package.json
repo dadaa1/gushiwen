@@ -1,0 +1,17 @@
+{
+  "name": "gushiwen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "sequelize": "^4.37.4",
+    "superagent": "^3.8.2"
+  }
+}
